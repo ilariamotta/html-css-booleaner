@@ -45,5 +45,24 @@ header {
 }
 
 .titoletti-tabella {
-    color:aliceblue;
+    color:white;
+}
+
+.riga-colorata {
+    background-color: aqua;
+}
+
+.commenti-finali{
+    font-weight: bold;
+    color: grey;
+}
+
+.immagine-monitor {
+    background-image: url(../img/monitor.jpg);
+    background-size: 50px;
+}
+
+.immagine-monitor {
+    background-image: url(../img/graph.jpg);
+    background-size: 50px;
 }
