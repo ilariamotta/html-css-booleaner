@@ -1,0 +1,34 @@
+/* prova */
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-color: #87cefa;
+    background-repeat: repeat-x top;
+    background-size: 200px;
+    
+}
+
+.logo {
+    font-weight: bolder;
+    width: 150px;
+}
+
+.titolo {
+    font-weight: 300;
+    color: black;
+}
+
+.scritto-da {
+    font-size: medium;
+    color:grey;
+
+}
+
+.autore {
+    font-weight: bold;
+    color:#87cefa;
+}
+
+.data {
+    font-size: small;
+    color:grey;
+}
