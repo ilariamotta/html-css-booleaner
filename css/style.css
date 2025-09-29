@@ -40,29 +40,38 @@ header {
     background-color: yellow;
 }
 
+.stile-tabella{
+    border-collapse: collapse;
+}
+
 .intestazione-tabella {
     background-color: #87cefa;
+
+}
+
+th, td {
+    padding: 10px;
 }
 
 .titoletti-tabella {
     color:white;
+    text-align: left;
 }
 
 .riga-colorata {
     background-color: aqua;
 }
 
-.commenti-finali{
+.commenti-finali {
     font-weight: bold;
     color: grey;
 }
-
-.immagine-monitor {
-    background-image: url(../img/monitor.jpg);
-    background-size: 50px;
+.immagini {
+  position: static;
+  background-size: 100px;
+  color: white;
 }
 
-.immagine-monitor {
-    background-image: url(../img/graph.jpg);
-    background-size: 50px;
-}
+.alto-sinistra {
+  upper: 8px;
+  left: 16px;
