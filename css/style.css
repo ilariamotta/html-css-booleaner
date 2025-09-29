@@ -1,15 +1,14 @@
-/* prova */
-.pattern {
+header {
     background-image: url(../img/pattern.png);
     background-color: #87cefa;
-    background-repeat: repeat-x top;
-    background-size: 200px;
-    
+    background-repeat: repeat-x;
+    background-size: 380px;
 }
 
 .logo {
     font-weight: bolder;
     width: 150px;
+    margin-top: 50px;
 }
 
 .titolo {
@@ -39,4 +38,12 @@
 
 .importante {
     background-color: yellow;
+}
+
+.intestazione-tabella {
+    background-color: #87cefa;
+}
+
+.titoletti-tabella {
+    color:aliceblue;
 }
