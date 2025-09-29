@@ -13,14 +13,14 @@
 }
 
 .titolo {
-    font-weight: 300;
+    font-size: 900;
+    font-weight:bolder;
     color: black;
 }
 
 .scritto-da {
     font-size: medium;
     color:grey;
-
 }
 
 .autore {
@@ -31,4 +31,12 @@
 .data {
     font-size: small;
     color:grey;
+}
+
+.descrizioni-foto {
+    font-size:smaller;
+}
+
+.importante {
+    background-color: yellow;
 }
